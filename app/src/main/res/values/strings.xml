@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sqlLite</string>
+    <string name="agregar">Agregar Comentario</string>
+    <string name="borrar">Borrar Primero</string>
+</resources>
